@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkarwa&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkarwa" /> </p>
 
-- 🌱 I’m currently learning **Python, Machin learning, Data science,Data analytics ,SQL,Power Bi**
+- 🌱 I’m currently learning **Python, Machin learning, Data science, Data analytics , SQL, Power Bi**
 
-- 💬 Ask me about **Python, Machine learning,Excel,SQL,Power bi**
+- 💬 Ask me about **Data analytics, Python, Machine learning, Excel, SQL, Power Bi**
 
 - 📫 How to reach me **gkarwa03@gmail.com**
 
